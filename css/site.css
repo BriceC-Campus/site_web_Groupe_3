@@ -28,3 +28,17 @@ header img {
   border-radius: 50%;
   margin-right: 20px;
 }
+
+#box-bg{
+  height: 100%;
+  width: 100%;
+  display: inline-flex;
+}
+
+.R{
+  width: 20%;
+  height: 75%;
+  margin: 20px;
+  -webkit-backdrop-filter: blur(40px);
+  backdrop-filter: blur(40px);
+}
