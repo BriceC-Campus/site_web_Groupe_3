@@ -1,4 +1,4 @@
-const pointsOfInterest = [
+export const pointsOfInterest = [
   {name: 'Refuge de la Servaz', lat: 45.720019147689136, lng: 6.253936236194966},
   {name: 'Roc des Boeufs', lat: 45.755970983017846, lng: 6.166909761456816},
   {name: 'Point de la Gallopaz', lat: 45.567388639634096, lng: 6.066727306183258},
